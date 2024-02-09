@@ -16,7 +16,7 @@ const Signup: React.FC = () => {
     firstName: "",
     lastName: "",
     email: "",
-    // invitationCode: "",
+    invitationCode: "",
     password: "",
     terms: false,
   };
